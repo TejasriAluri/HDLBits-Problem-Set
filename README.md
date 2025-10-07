@@ -25,6 +25,9 @@ All solutions are submitted and available on HDLBits. You can explore each probl
 - Click the links to go directly to HDLBits and view/submit solutions.
 - This repository serves as a central reference to track all my HDLBits work.
 
+<img width="625" height="456" alt="image" src="https://github.com/user-attachments/assets/515477ad-431c-4c3e-9dc2-ca4728d1a7db" />
+
+
 ---
 
 *Created by [Aluri Tejasri](https://github.com/TejasriAluri)*
